@@ -157,4 +157,4 @@ From the above analysis, we can conclude by summarizing our findings and recomme
 2. This Readme.md file (Readme_Module_1_Project.md)
 3. Keynote Presentation (Presentation.pdf)
 4. Blogpost (    )
-5. Video Walkthrough (K.Machine_Zoom_MOd_1.mp4.zip)
+5. Video Walkthrough (https://drive.google.com/file/d/1hIgkSvubjEPifY0XjjfBMFcX60BzcJw0/view?usp=sharing)
