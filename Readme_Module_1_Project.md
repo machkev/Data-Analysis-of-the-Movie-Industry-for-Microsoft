@@ -156,5 +156,5 @@ From the above analysis, we can conclude by summarizing our findings and recomme
 1. Jupyter Notebook (K_Machine_Final_Module_1-Project.ipynb)
 2. This Readme.md file (Readme_Module_1_Project.md)
 3. Keynote Presentation (Presentation.pdf)
-4. Blogpost (    )
+4. Blogpost (https://machkev.github.io/visualization_using_seaborn)
 5. Video Walkthrough (https://drive.google.com/file/d/1hIgkSvubjEPifY0XjjfBMFcX60BzcJw0/view?usp=sharing)
