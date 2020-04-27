@@ -68,7 +68,7 @@ We review the data using an SQL query to get a better sense of the scale of the 
 
 We will plot our data using a boxplot to show the profits for each month. We use a boxplot so that we can see the IQR for movie profits and how the vary from month to month. We will also remove the outliers but leave in the whiskers to get a good sense of the full range of movie success by month.
 
-![Seasonality_&_Profit]()
+![Seasonality_&_Profit](https://github.com/machkev/dsc-mod-1-project-v2-1-onl01-dtsc-pt-030220/tree/master/Images/Seasonality&Profits.png)
  
 ### Findings
 From our boxplot, we see there's dual seasonality of higher profits during the summer and at the end of the year. The highest profit in summer can be realized during the months of June and in November toward the winter months.
@@ -93,12 +93,12 @@ I also initially wanted to explore the visualization of both voter rating by gen
 ### EDA for non-English genres and popularity
  
 
-![Non-English-Genre]()
+![Non-English-Genre](https://github.com/machkev/dsc-mod-1-project-v2-1-onl01-dtsc-pt-030220/tree/master/Images/Non_English_Genre.png)
 
 Each film had up to three genres tagged, so the total number of data points in the above visualization are more than 252. I  dropped the genres with fewer than 10 films tagged. However, the runaway dominant genre is Drama, followed by Comedy and Romance.
 
 
-![Average_Rating]()
+![Average_Rating](https://github.com/machkev/dsc-mod-1-project-v2-1-onl01-dtsc-pt-030220/tree/master/Images/Avg_Rating_for_non-English.png)
 
  
 I also created a SQL table to show the average voter rating in each genre. Our top 3 genres didn't make the top 5 average voter ratings by genre, with War films having the highest vote average at 7.310 and Horror films having the lowest at 6.22. Below are the rankings of our top three genres, out of a complete list of 21 genres.
@@ -125,7 +125,7 @@ I recommend that we continue to scrape for further data to ensure our lists are 
 We will review the Box Office Magic, Rotten Tomatoes tables and our existing dataframe from the previous question to see which has the longest data set on studio information. We would like to determine which studios are releasing the most movies, and would like to compare the production budgets of those studios.
  
 
-![Studio_Budgets]()
+![Studio_Budgets](https://github.com/machkev/dsc-mod-1-project-v2-1-onl01-dtsc-pt-030220/tree/master/Images/Studio_Budgets.png)
 
 ### EDA for Studios and Production Budgets
 
@@ -157,4 +157,4 @@ From the above analysis, we can conclude by summarizing our findings and recomme
 2. This Readme.md file (Readme_Module_1_Project.md)
 3. Keynote Presentation (Presentation.pdf)
 4. Blogpost (    )
-5. Video Walkthrough (   )
+5. Video Walkthrough (K.Machine_Zoom_MOd_1.mp4.zip)
