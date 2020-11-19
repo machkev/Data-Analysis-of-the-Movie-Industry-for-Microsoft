@@ -1,4 +1,4 @@
-# Module 1 Final Project
+# Analysis of the Movie Industry
 
 ## Introduction
 
