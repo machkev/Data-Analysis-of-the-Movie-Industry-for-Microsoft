@@ -13,7 +13,7 @@ You will be able to:
 * Describe what constitutes a successful project
 * Describe what the experience of the project review should be like
 
-## Final Project Summary
+## Project Summary
 
 You've made it all the way through the first module of this course - take a minute to celebrate your awesomeness!
 
